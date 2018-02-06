@@ -1,11 +1,12 @@
 # ZA-project
 + main description and framework of za project
-# ZA, not only a new social network 
+# ZA
+## Not only a new social network 
 ================
 
-ZA uses some digital identity and blockchain technology to digitize assets and leverages smart contracts for autonomously managed digital assets to create a "smart economy" within a decentralized network.
+ZA uses some digital encryption and blockchain technology to digitize your social reations and leverages up your ability on getting something to resolve, managed your digital social reation assets to create a valuable ,decentralized pepole's network.
 
-To learn more about NEO, please read the [White Paper](http://docs.za.link/en-us/index.html)|[白皮书](http://docs.za.link/zh-cn/index.html).
+To learn more about ZA, please read the [White Paper](http://docs.za.link/en-us/index.html)|[白皮书](http://docs.za.link/zh-cn/index.html).
 
 Supported Platforms
 --------
