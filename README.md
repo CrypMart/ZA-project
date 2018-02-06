@@ -4,7 +4,7 @@
 ## Not only a new social network 
 ================
 
-ZA uses some digital encryption and blockchain technology to digitize your social reations and leverages up your ability on getting something to resolve, managed your digital social reation assets to create a valuable ,decentralized pepole's network.
+ZA uses some digital encryption and blockchain technology to digitize your social reations and leverages up your ability on getting something to resolve, managed your digital social relation assets to create a valuable ,decentralized pepole's network.
 
 To learn more about ZA, please read the [White Paper](http://docs.za.link/en-us/index.html)|[白皮书](http://docs.za.link/zh-cn/index.html).
 
@@ -18,14 +18,14 @@ Development
 --------
 Only in phase 2,we will support ISV and other kinds co-operations
 ```
-PM> how to get started with ZA?
+> how to get started with ZA?
 ```
 Here will put a QR picture ,todo
 
 Contribute
 --------
 
-You can contribute to NEO with [issues](https://github.com/ZA-LINK/ZA-project/issues) and [PRs](https://github.com/ZA-LINK/ZA-project/pulls). Simply filing issues for problems you encounter is a great way to contribute. Contributing implementations is greatly appreciated.
+You can contribute to ZA with [issues](https://github.com/ZA-LINK/ZA-project/issues) and [PRs](https://github.com/ZA-LINK/ZA-project/pulls). Simply filing issues for problems you encounter is a great way to contribute. Contributing implementations is greatly appreciated.
 
 We use and recommend the following workflow:
 
@@ -50,4 +50,4 @@ Note: It is OK for your PR to include a large number of commits. Once your chang
 License
 ------
 
-The ZA project is licensed under the [Apache 2 license](LICENSE).
+The ZA project is licensed under the [Apache2 license](LICENSE).
